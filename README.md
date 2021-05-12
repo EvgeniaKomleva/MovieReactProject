@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+OMDb API - это веб-сервис RESTful для получения информации о фильмах, весь контент и изображения на сайте предоставлены пользователями.
+
 ## Available Scripts
 
 In the project directory, you can run:
